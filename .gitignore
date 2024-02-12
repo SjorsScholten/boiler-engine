@@ -1,0 +1,5 @@
+[Bb]in/
+[Oo]bj/
+
+# include binaries from vendors
+!/vendor/**/[Bb]in/
