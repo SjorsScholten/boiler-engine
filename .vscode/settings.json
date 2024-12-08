@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "begin_code.h": "c",
+        "sdl_version.h": "c"
+    }
+}
